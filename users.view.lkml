@@ -26,7 +26,6 @@ view: users {
   dimension_group: created {
     type: time
     timeframes: [
-      raw,
       time,
       date,
       week,
